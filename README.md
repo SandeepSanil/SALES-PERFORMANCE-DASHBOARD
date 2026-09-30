@@ -2,19 +2,7 @@
 
 A Power BI dashboard designed to analyze sales performance across different time periods, regions, product categories, and customers.
 
-## Dashboard Preview
 
-> Add your dashboard screenshot to the repository and update the image path below.
-
-```text
-images/dashboard-preview.png
-```
-
-Example Markdown image code:
-
-```markdown
-
-```
 
 ## Overview
 
